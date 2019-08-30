@@ -15,7 +15,7 @@
  */
 buildscript {
   ext.versions = [
-      'agpVersion': '3.2.1',
+      'agpVersion': '3.3.2',
       'buildToolsVersion': '28.0.3',
       'minSdkVersion': 21,
       'targetSdkVersion': 26,
